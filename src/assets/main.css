@@ -1,0 +1,5 @@
+.center {
+    border: 10px solid green;
+    display: flex;
+    justify-content: center;
+}
